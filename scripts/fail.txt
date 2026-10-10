@@ -1,0 +1,4 @@
+ls first
+cd /tmp
+wrongcmd
+ls never_executed
